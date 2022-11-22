@@ -22,8 +22,6 @@ sudo apt update && sudo apt upgrade -y
 
 then install snap package manager. [more](https://snapcraft.io/docs/installing-snapd)
 
-![pic1](/src/Screenshot%20from%202022-11-22%2015-43-28.png)
-
 ~~~
 sudo apt install snapd
 ~~~
@@ -34,11 +32,19 @@ then install bitcoin-core
 sudo snap install bitcoin-core
 ~~~
 
+![pic1](/src/Screenshot%20from%202022-11-22%2015-43-28.png)
+
 Check the version and complete installation.
 
 ~~~
 bitcoin-core.cli --version
 ~~~
+
+![pic2](/src/Screenshot%20from%202022-11-22%2015-44-04.png)
+![pic3](/src/Screenshot%20from%202022-11-22%2015-44-16.png)
+![pic4](/src/Screenshot%20from%202022-11-22%2015-44-38.png)
+![pic1](/src/Screenshot%20from%202022-11-22%2015-45-25.png)
+![pic1](/src/Screenshot%20from%202022-11-22%2015-46-00.png)
 
 uninstall bitcoin-core
 
