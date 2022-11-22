@@ -43,11 +43,20 @@ bitcoin-core.cli --version
 ~~~
 
 ![pic3](/src/Screenshot%20from%202022-11-22%2015-44-16.png)
+
+Open Activities. You will find a bitcoin icon. double click it
+
 ![pic4](/src/Screenshot%20from%202022-11-22%2015-44-38.png)
+
+Unless you plan on configuring anything else. You can use the default. The important part of this step is the path. `/home/devg/snap/bitcoin-core/common/.bitcoin` Click "Next" to continue.
+
 ![pic5](/src/Screenshot%20from%202022-11-22%2015-45-25.png)
+
+Complete the installation. Then you just wait for the sync to 100%.
+
 ![pic6](/src/Screenshot%20from%202022-11-22%2015-46-00.png)
 
-uninstall bitcoin-core
+## uninstall bitcoin-core
 
 ~~~
 sudo snap remove bitcoin-core
