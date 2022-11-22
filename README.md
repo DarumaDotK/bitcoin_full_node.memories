@@ -1,5 +1,7 @@
 # bitcoin-fullnode.memories
  Usage and Troubleshooting Logs of Running Bitcoin Full Node
+
+You can find more information for Bitcoin Full Node at [Bitcoin.Org](https://bitcoin.org/en/full-node#what-is-a-full-node)
  
 ## Minimum Requirements
 
