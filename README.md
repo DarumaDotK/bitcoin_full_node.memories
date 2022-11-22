@@ -36,15 +36,16 @@ sudo snap install bitcoin-core
 
 Check the version and complete installation.
 
+![pic2](/src/Screenshot%20from%202022-11-22%2015-44-04.png)
+
 ~~~
 bitcoin-core.cli --version
 ~~~
 
-![pic2](/src/Screenshot%20from%202022-11-22%2015-44-04.png)
 ![pic3](/src/Screenshot%20from%202022-11-22%2015-44-16.png)
 ![pic4](/src/Screenshot%20from%202022-11-22%2015-44-38.png)
-![pic1](/src/Screenshot%20from%202022-11-22%2015-45-25.png)
-![pic1](/src/Screenshot%20from%202022-11-22%2015-46-00.png)
+![pic5](/src/Screenshot%20from%202022-11-22%2015-45-25.png)
+![pic6](/src/Screenshot%20from%202022-11-22%2015-46-00.png)
 
 uninstall bitcoin-core
 
